@@ -1,0 +1,5 @@
+{
+  "name": "Moneyball FM Analyst",
+  "description": "A sophisticated tool for Football Manager players to upload squad data and get AI-powered rankings based on specific positions and playstyles, inspired by the Moneyball philosophy.",
+  "requestFramePermissions": []
+}
